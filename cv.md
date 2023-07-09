@@ -22,19 +22,12 @@ I am a novice frontend developer. Even at school, i was interested in developmen
 * Adobe Photoshop, SketchUp
 
 **Code example**
-```<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <div>
-        <p>"Hello World!"</p>
-    </div>
-</body>
-</html>
+```
+function factorial(n) {
+ if (n<0) return null;
+ if (n<=0) return 1;
+ return n * factorial(n-1)
+}
 ```
 
 **Work experience**
@@ -42,9 +35,9 @@ I am a novice frontend developer. Even at school, i was interested in developmen
 Educational project - https://github.com/faricka/rsschool-cv.git - Markdown, Git, GitHub, VSCode
 
 **Education**
-* Moscow Timiryazev Agricultural Academy (Landscape architecture)- 2020-2025 
+* Moscow Timiryazev Agricultural Academy (Landscape architecture)- 2020-2025
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-**English** 
+**English**
 
 A2
