@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Open_Sans;
+     src: url("assets/fonts/Open_Sans.zip");
+   }
+   .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: 222222;
+  }
+   .nav-list {
+    list-style: none;
+  }
+   .nav-link {
+    padding: 0 20px;
+    line-height: 40px;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0; padding: 0;
+    background-color: #CCFFCC;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+  }
+ footer {
+    background-color:#77FF77
+
+ }
+ header {
+    background-color:#77FF77
+ }
+  * {
+     box-sizing: border-box;
+   }
